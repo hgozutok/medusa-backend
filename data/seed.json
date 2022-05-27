@@ -4,8 +4,8 @@
   },
   "users": [
     {
-      "email": "admin@medusa-test.com",
-      "password": "supersecret"
+      "email": "spring@hugo",
+      "password": "hugo"
     }
   ],
   "regions": [
@@ -122,6 +122,8 @@
       "handle": "t-shirt",
       "is_giftcard": false,
       "weight": 400,
+      "weight_unit": "g",
+      
       "images": [
         "https://medusa-public-images.s3.eu-west-1.amazonaws.com/tee-black-front.png",
         "https://medusa-public-images.s3.eu-west-1.amazonaws.com/tee-black-back.png",
